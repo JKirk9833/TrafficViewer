@@ -1,0 +1,2 @@
+class jsonNotFoundAtLocation(Exception):
+    pass
